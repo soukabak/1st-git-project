@@ -4,4 +4,4 @@ fichier texte non vide !!!
 
 
 
-mais insignifiant !
+mais moyen !
